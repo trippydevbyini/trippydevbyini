@@ -1,4 +1,4 @@
-### hey, i'm ini 🌸  
+### hey, i'm ini 🍃  
 > aka trippydevbyini — a frontend dev learning in color.
 
 - 💻 currently learning: `HTML`, `CSS`, and building responsive layouts  
